@@ -1,0 +1,78 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    z-index: 10 ;
+    height: 100;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color:#F2CA2F;
+    margin-bottom: 0;
+  
+    
+  }
+  .header-left{
+    background-color: #F2CA2F;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+
+  }
+  .md{
+    flex: 1;
+
+  }
+  .left_header span{
+    margin-right: 38px;
+
+  }
+  .logo{
+    margin-left: 38px;
+
+  }
+  .header_right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 54px;
+
+  }
+  .material-symbols-outlined{
+    font-variation-settings: 
+    "fill" 1,
+    "wght"400,
+    "GRAD" 0,
+    "opsz" 58
+  }
+  .login{
+    display: flex;
+    flex-direction : row;
+    align-items: center;
+    background-color: rgb(255,255,255);
+    border-radius : 50px;
+    padding : 0 16px;
+    height: 48px;
+    cursor: pointer;
+}
+.signup{
+    margin-left: 18px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    /* height: 24px;
+    width: 69.5px;
+    padding: 24px; */
+    border-radius: 50px;
+    padding: 0 16px;
+    height: 48px;
+    cursor: pointer;
+
+  }
+  .signup:hover{
+    background-color: rgba(0,0,0,0.8);
+}
