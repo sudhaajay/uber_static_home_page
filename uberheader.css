@@ -1,4 +1,6 @@
 .header{
+       height: 10px;
+    padding: 30px;
    display: flex;
     flex-direction: row;
     position: fixed;
@@ -14,7 +16,7 @@
   }
   .header-left{
     background-color: #F2CA2F;
-    
+        margin-left: 48px;
     display: flex;
     flex-direction: row;
     align-items: center;
