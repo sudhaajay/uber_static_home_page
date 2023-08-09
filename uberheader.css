@@ -1,11 +1,11 @@
 .header{
-       height: 10px;
+       height: 67px;
     padding: 30px;
    display: flex;
     flex-direction: row;
     position: fixed;
     z-index: 10;
-    height: 100px;
+/*     height: 100px; */
     left: 0;
     right: 0;
     top: 0;
