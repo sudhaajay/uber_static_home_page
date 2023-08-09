@@ -1,13 +1,13 @@
 .header{
-    display: flex;
+   display: flex;
     flex-direction: row;
     position: fixed;
-    z-index: 10 ;
-    height: 100;
+    z-index: 10;
+    height: 100px;
     left: 0;
     right: 0;
     top: 0;
-    background-color:#F2CA2F;
+    background-color: #F2CA2F;
     margin-bottom: 0;
   
     
