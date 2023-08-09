@@ -139,8 +139,9 @@ body{
   flex-direction: column;
 }
 .im img{
-  height: 258px;
-  width: 430px;
+    margin-top: 117px;
+    height: 258px;
+    width: 401px;
 }
 .p1{
   margin-top: 12px;
